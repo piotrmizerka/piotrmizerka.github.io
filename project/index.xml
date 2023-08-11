@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Website of Piotr Mizerka</title>
+    <link>https://example.com/project/</link>
+      <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Dec 2022 10:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://example.com/project/</link>
+    </image>
+    
+    <item>
+      <title>Modern methods of data analysis</title>
+      <link>https://example.com/project/bedlewo_2022/</link>
+      <pubDate>Mon, 12 Dec 2022 10:00:00 +0000</pubDate>
+      <guid>https://example.com/project/bedlewo_2022/</guid>
+      <description>&lt;p&gt;A course conducted for PhD students of &lt;a href=&#34;https://www.mssd.us.edu.pl/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Environmental Doctoral School&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Basics of mathematics</title>
+      <link>https://example.com/project/basics_mathematics_2020/</link>
+      <pubDate>Thu, 01 Oct 2020 10:00:00 +0000</pubDate>
+      <guid>https://example.com/project/basics_mathematics_2020/</guid>
+      <description>&lt;p&gt;A course conducted for Cumputer Science undegraduate students of Adam Mickiewicz University in Poznań. The course included basics of logic, set theory, calculus and probability theory.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to mathematics</title>
+      <link>https://example.com/project/introduction_mathematics_2020/</link>
+      <pubDate>Thu, 01 Oct 2020 10:00:00 +0000</pubDate>
+      <guid>https://example.com/project/introduction_mathematics_2020/</guid>
+      <description>&lt;p&gt;A course conducted for Mathematics undegraduate students of Adam Mickiewicz University in Poznań. The course included basics of logic, set theory, calculus and probability theory.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Review of elementary mathematics</title>
+      <link>https://example.com/project/review_mathematics_2020/</link>
+      <pubDate>Thu, 01 Oct 2020 10:00:00 +0000</pubDate>
+      <guid>https://example.com/project/review_mathematics_2020/</guid>
+      <description>&lt;p&gt;A course conducted for the first year Mathematics undegraduate students of Adam Mickiewicz University in Poznań. The course aimed at the repetition of the topics tought in high schools.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to algebra and number theory</title>
+      <link>https://example.com/project/algebra_number_theory_2019/</link>
+      <pubDate>Tue, 01 Oct 2019 10:00:00 +0000</pubDate>
+      <guid>https://example.com/project/algebra_number_theory_2019/</guid>
+      <description>&lt;p&gt;A course conducted for Mathematics undegraduate students of Adam Mickiewicz University in Poznań.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Review of elementary mathematics</title>
+      <link>https://example.com/project/review_mathematics_2019/</link>
+      <pubDate>Tue, 01 Oct 2019 10:00:00 +0000</pubDate>
+      <guid>https://example.com/project/review_mathematics_2019/</guid>
+      <description>&lt;p&gt;A course conducted for the first year Mathematics undegraduate students of Adam Mickiewicz University in Poznań. The course aimed at the repetition of the topics tought in high schools.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to algebra and number theory</title>
+      <link>https://example.com/project/algebra_number_theory_2018/</link>
+      <pubDate>Mon, 01 Oct 2018 10:00:00 +0000</pubDate>
+      <guid>https://example.com/project/algebra_number_theory_2018/</guid>
+      <description>&lt;p&gt;A course conducted for Mathematics undegraduate students of Adam Mickiewicz University in Poznań.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Review of elementary mathematics</title>
+      <link>https://example.com/project/review_mathematics_2018/</link>
+      <pubDate>Mon, 01 Oct 2018 10:00:00 +0000</pubDate>
+      <guid>https://example.com/project/review_mathematics_2018/</guid>
+      <description>&lt;p&gt;A course conducted for the first year Mathematics undegraduate students of Adam Mickiewicz University in Poznań. The course aimed at the repetition of the topics tought in high schools.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to algebra and number theory</title>
+      <link>https://example.com/project/algebra_number_theory_2017/</link>
+      <pubDate>Sun, 01 Oct 2017 10:00:00 +0000</pubDate>
+      <guid>https://example.com/project/algebra_number_theory_2017/</guid>
+      <description>&lt;p&gt;A course conducted for Mathematics undegraduate students of Adam Mickiewicz University in Poznań.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to mathematics</title>
+      <link>https://example.com/project/introduction_mathematics_2017/</link>
+      <pubDate>Sun, 01 Oct 2017 10:00:00 +0000</pubDate>
+      <guid>https://example.com/project/introduction_mathematics_2017/</guid>
+      <description>&lt;p&gt;A course conducted for Mathematics undegraduate students of Adam Mickiewicz University in Poznań. The course included basics of logic and set theory.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

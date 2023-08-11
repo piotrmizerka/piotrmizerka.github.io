@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Website of Piotr Mizerka</title>
+    <link>https://example.com/publication-type/2/</link>
+      <atom:link href="https://example.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://example.com/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Exclusions of smooth actions on spheres of the non-split extension of $C_2$ by SL(2,5)</title>
+      <link>https://example.com/publication/osaka_journal/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/osaka_journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new family of finite Oliver groups satisfying the Laitinen Conjecture</title>
+      <link>https://example.com/publication/topology_applications/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/topology_applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of Bitcoin on developed and emerging markets – on the basis of a Bitcoin users graph analysis</title>
+      <link>https://example.com/publication/bitcoin/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/bitcoin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonexistence of smooth effective one fixed point actions of finite Oliver groups on low-dimensional spheres</title>
+      <link>https://example.com/publication/bulletin_polish_academy/</link>
+      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/bulletin_polish_academy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
