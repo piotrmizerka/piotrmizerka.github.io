@@ -13,6 +13,30 @@
     </image>
     
     <item>
+      <title>Induction of spectral gaps for the cohomological Laplacians of SL(n,ℤ) and SAut(F_n)</title>
+      <link>https://example.com/talk/induction-of-spectral-gaps-for-the-cohomological-laplacians-of-sln%E2%84%A4-and-sautf_n/</link>
+      <pubDate>Thu, 07 Sep 2023 15:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/induction-of-spectral-gaps-for-the-cohomological-laplacians-of-sln%E2%84%A4-and-sautf_n/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Spectral gaps for cohomological Laplacians of SL(n,ℤ)</title>
       <link>https://example.com/talk/spectral-gaps-for-cohomological-laplacians-of-sln%E2%84%A4/</link>
       <pubDate>Mon, 22 May 2023 16:30:00 +0000</pubDate>
@@ -530,7 +554,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-518243679&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-239416875&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -540,7 +564,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-518243679&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-239416875&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
