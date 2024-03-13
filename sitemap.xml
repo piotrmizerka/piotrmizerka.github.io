@@ -2,11 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/talk/induction-of-spectral-gaps-for-the-cohomological-laplacians-of-sln%E2%84%A4-and-sautf_n/</loc>
-    <lastmod>2023-09-07T15:00:00+00:00</lastmod>
+    <loc>https://example.com/talk/group-ring-aspects-of-cohomological-properties/</loc>
+    <lastmod>2024-01-29T14:15:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/event/</loc>
+    <lastmod>2024-01-29T14:15:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/teaching/bedlewo_2023/</loc>
+    <lastmod>2023-12-11T10:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/teaching/</loc>
+    <lastmod>2023-12-11T10:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/talk/induction-of-spectral-gaps-for-the-cohomological-laplacians-of-sln%E2%84%A4-and-sautf_n/</loc>
     <lastmod>2023-09-07T15:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -34,10 +46,6 @@
     <lastmod>2023-01-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/sl3z_laplacian_gap/</loc>
-    <lastmod>2023-01-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/publication-type/2/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -46,12 +54,16 @@
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/project/bedlewo_2022/</loc>
+    <loc>https://example.com/teaching/bedlewo_2022/</loc>
     <lastmod>2022-12-12T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/project/sonatina/</loc>
+    <lastmod>2022-12-09T10:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/project/</loc>
-    <lastmod>2022-12-12T10:00:00+00:00</lastmod>
+    <lastmod>2022-12-09T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/</loc>
@@ -60,6 +72,10 @@
   </url><url>
     <loc>https://example.com/talk/spectral-gaps-for-higher-laplacians-and-group-cohomology/</loc>
     <lastmod>2022-09-28T11:20:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/sl3z_laplacian_gap/</loc>
+    <lastmod>2022-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/talk/fox-derivatives-group-cohomology-and-higher-property-t/</loc>
@@ -82,27 +98,19 @@
     <lastmod>2021-01-12T12:20:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/getting-started/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/post/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/talk/on-exotic-group-actions-on-spheres/</loc>
     <lastmod>2020-11-25T16:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/project/basics_mathematics_2020/</loc>
+    <loc>https://example.com/teaching/basics_mathematics_2020/</loc>
     <lastmod>2020-10-01T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/project/introduction_mathematics_2020/</loc>
+    <loc>https://example.com/teaching/introduction_mathematics_2020/</loc>
     <lastmod>2020-10-01T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/project/review_mathematics_2020/</loc>
+    <loc>https://example.com/teaching/review_mathematics_2020/</loc>
     <lastmod>2020-10-01T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -114,11 +122,11 @@
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/project/algebra_number_theory_2019/</loc>
+    <loc>https://example.com/teaching/algebra_number_theory_2019/</loc>
     <lastmod>2019-10-01T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/project/review_mathematics_2019/</loc>
+    <loc>https://example.com/teaching/review_mathematics_2019/</loc>
     <lastmod>2019-10-01T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -126,16 +134,8 @@
     <lastmod>2019-09-30T16:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/talk/hedging-capabilities-of-bitcoin-for-central-and-east-european-markets/</loc>
     <lastmod>2019-06-10T16:30:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/slides/</loc>
@@ -150,11 +150,11 @@
     <lastmod>2018-12-10T12:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/project/algebra_number_theory_2018/</loc>
+    <loc>https://example.com/teaching/algebra_number_theory_2018/</loc>
     <lastmod>2018-10-01T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/project/review_mathematics_2018/</loc>
+    <loc>https://example.com/teaching/review_mathematics_2018/</loc>
     <lastmod>2018-10-01T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -170,11 +170,11 @@
     <lastmod>2018-07-04T17:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/project/algebra_number_theory_2017/</loc>
+    <loc>https://example.com/teaching/algebra_number_theory_2017/</loc>
     <lastmod>2017-10-01T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/project/introduction_mathematics_2017/</loc>
+    <loc>https://example.com/teaching/introduction_mathematics_2017/</loc>
     <lastmod>2017-10-01T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
