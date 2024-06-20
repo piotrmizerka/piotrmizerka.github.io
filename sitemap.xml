@@ -2,11 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/talk/group-ring-aspects-of-cohomological-properties/</loc>
-    <lastmod>2024-01-29T14:15:00+00:00</lastmod>
+    <loc>https://example.com/talk/induction-of-spectral-gaps-for-the-cohomological-laplacians-of-sln%E2%84%A4-and-sautf_n./</loc>
+    <lastmod>2024-06-28T16:40:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/event/</loc>
+    <lastmod>2024-06-28T16:40:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication-type/3/</loc>
+    <lastmod>2024-04-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/slnz_induction/</loc>
+    <lastmod>2024-04-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication_types/</loc>
+    <lastmod>2024-04-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/</loc>
+    <lastmod>2024-04-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/talk/group-ring-aspects-of-cohomological-properties/</loc>
     <lastmod>2024-01-29T14:15:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -30,19 +50,7 @@
     <lastmod>2023-05-10T16:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication-type/3/</loc>
-    <lastmod>2023-01-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/publication/order_units_augmentation/</loc>
-    <lastmod>2023-01-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication_types/</loc>
-    <lastmod>2023-01-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication/</loc>
     <lastmod>2023-01-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

@@ -5,12 +5,20 @@
     <link>https://example.com/publication-type/3/</link>
       <atom:link href="https://example.com/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 16 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
       <link>https://example.com/publication-type/3/</link>
     </image>
+    
+    <item>
+      <title>Inducing spectral gaps for the cohomological Laplacians of SL$_n$(ℤ) and SAut(F$_n$)</title>
+      <link>https://example.com/publication/slnz_induction/</link>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/slnz_induction/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On order units in the augmentation ideal</title>
@@ -21,7 +29,7 @@
     </item>
     
     <item>
-      <title>Spectral gap for the cohomological Laplacian of  $SL_3(ℤ)$</title>
+      <title>Spectral gap for the cohomological Laplacian of  SL$_3$(ℤ)</title>
       <link>https://example.com/publication/sl3z_laplacian_gap/</link>
       <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/sl3z_laplacian_gap/</guid>
