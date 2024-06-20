@@ -11,19 +11,27 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication-type/3/</loc>
-    <lastmod>2024-04-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/order_units_augmentation/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication_types/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/slnz_induction/</loc>
     <lastmod>2024-04-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication_types/</loc>
-    <lastmod>2024-04-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication/</loc>
-    <lastmod>2024-04-16T00:00:00+00:00</lastmod>
+    <loc>https://example.com/publication/sl3z_laplacian_gap/</loc>
+    <lastmod>2024-04-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/talk/group-ring-aspects-of-cohomological-properties/</loc>
@@ -48,10 +56,6 @@
   </url><url>
     <loc>https://example.com/talk/vanishing-of-group-cohomology-kazhdans-property-t-and-computer-proofs/</loc>
     <lastmod>2023-05-10T16:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication/order_units_augmentation/</loc>
-    <lastmod>2023-01-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication-type/2/</loc>
@@ -80,10 +84,6 @@
   </url><url>
     <loc>https://example.com/talk/spectral-gaps-for-higher-laplacians-and-group-cohomology/</loc>
     <lastmod>2022-09-28T11:20:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication/sl3z_laplacian_gap/</loc>
-    <lastmod>2022-07-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/talk/fox-derivatives-group-cohomology-and-higher-property-t/</loc>

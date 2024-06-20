@@ -37,10 +37,26 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     </item>
     
     <item>
+      <title>On order units in the augmentation ideal</title>
+      <link>https://example.com/publication/order_units_augmentation/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/order_units_augmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Inducing spectral gaps for the cohomological Laplacians of SL$_n$(ℤ) and SAut(F$_n$)</title>
       <link>https://example.com/publication/slnz_induction/</link>
       <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/slnz_induction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectral gap for the cohomological Laplacian of SL$_3$(ℤ)</title>
+      <link>https://example.com/publication/sl3z_laplacian_gap/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/sl3z_laplacian_gap/</guid>
       <description></description>
     </item>
     
@@ -150,14 +166,6 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     </item>
     
     <item>
-      <title>On order units in the augmentation ideal</title>
-      <link>https://example.com/publication/order_units_augmentation/</link>
-      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/order_units_augmentation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Exclusions of smooth actions on spheres of the non-split extension of C$_2$ by SL(2,5)</title>
       <link>https://example.com/publication/osaka_journal/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
@@ -223,14 +231,6 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Spectral gap for the cohomological Laplacian of  SL$_3$(ℤ)</title>
-      <link>https://example.com/publication/sl3z_laplacian_gap/</link>
-      <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/sl3z_laplacian_gap/</guid>
-      <description></description>
     </item>
     
     <item>
