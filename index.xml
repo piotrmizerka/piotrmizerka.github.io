@@ -13,6 +13,54 @@
     </image>
     
     <item>
+      <title>Nonvanishing of group cohomology of SL(n,ℤ)</title>
+      <link>https://example.com/talk/nonvanishing-of-group-cohomology-of-sln%E2%84%A4/</link>
+      <pubDate>Tue, 17 Sep 2024 16:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/nonvanishing-of-group-cohomology-of-sln%E2%84%A4/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nieznikanie kohomologii grupy SL(n,ℤ)</title>
+      <link>https://example.com/talk/nieznikanie-kohomologii-grupy-sln%E2%84%A4/</link>
+      <pubDate>Tue, 10 Sep 2024 18:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/nieznikanie-kohomologii-grupy-sln%E2%84%A4/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Induction of spectral gaps for the cohomological Laplacians of SL(n,ℤ) and SAut(F_n).</title>
       <link>https://example.com/talk/induction-of-spectral-gaps-for-the-cohomological-laplacians-of-sln%E2%84%A4-and-sautf_n./</link>
       <pubDate>Fri, 28 Jun 2024 16:40:00 +0000</pubDate>
