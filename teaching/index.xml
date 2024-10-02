@@ -5,12 +5,26 @@
     <link>https://example.com/teaching/</link>
       <atom:link href="https://example.com/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Dec 2023 10:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Oct 2024 10:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Teaching</title>
       <link>https://example.com/teaching/</link>
     </image>
+    
+    <item>
+      <title>Wstęp do algebry i teorii liczb</title>
+      <link>https://example.com/teaching/wstep_do_algebry_i_teorii_liczb_2024/</link>
+      <pubDate>Wed, 02 Oct 2024 10:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching/wstep_do_algebry_i_teorii_liczb_2024/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://sylabus.amu.edu.pl/pl/document/c1981bf5-5b66-4c44-8f90-d7f3e93f2e4e.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sylabus&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/uploads/zasady_zaliczania_przedmiotu.pdf&#34;&gt;Zasady zaliczenia&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Literatura:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(1) A. Iwaszkiewicz-Rudoszańska, Wstęp do algebry i teorii liczb, Wydawnictwo Naukowe UAM, Poznań 2009.&lt;/p&gt;
+&lt;p&gt;(2) J. Rutkowski, Teoria liczb w zadaniach, Wydawnictwo Naukowe PWN, Warszawa 2018.&lt;/p&gt;
+&lt;p&gt;(3) J. Rutkowski, Algebra abstrakcyjna w zadaniach, Wydawnictwo Naukowe PWN, Warszawa 2006.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Modern methods of data analysis</title>

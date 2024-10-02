@@ -2,6 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://example.com/teaching/</loc>
+    <lastmod>2024-10-02T10:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/teaching/wstep_do_algebry_i_teorii_liczb_2024/</loc>
+    <lastmod>2024-10-02T10:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/talk/nonvanishing-of-group-cohomology-of-sln%E2%84%A4/</loc>
     <lastmod>2024-09-17T16:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -47,10 +55,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/teaching/bedlewo_2023/</loc>
-    <lastmod>2023-12-11T10:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/teaching/</loc>
     <lastmod>2023-12-11T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
