@@ -13,6 +13,38 @@
     </image>
     
     <item>
+      <title>Non-vanishing unitary cohomology of low-rank integral special linear groups</title>
+      <link>https://example.com/publication/higher_t_sln/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/higher_t_sln/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jedności porządkowe w ideale augmentacyjnym</title>
+      <link>https://example.com/talk/jednosci-porzadkowe-w-ideale-augmentacyjnym/</link>
+      <pubDate>Wed, 23 Oct 2024 12:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/jednosci-porzadkowe-w-ideale-augmentacyjnym/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Wstęp do algebry i teorii liczb</title>
       <link>https://example.com/teaching/wstep_do_algebry_i_teorii_liczb_2024/</link>
       <pubDate>Wed, 02 Oct 2024 10:00:00 +0000</pubDate>
@@ -55,6 +87,30 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <link>https://example.com/talk/nieznikanie-kohomologii-grupy-sln%E2%84%A4/</link>
       <pubDate>Tue, 10 Sep 2024 18:00:00 +0000</pubDate>
       <guid>https://example.com/talk/nieznikanie-kohomologii-grupy-sln%E2%84%A4/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Induction of spectral gaps for the cohomological Laplacians of SL(n,ℤ) and SAut(F_n)</title>
+      <link>https://example.com/talk/induction-of-spectral-gaps-for-the-cohomological-laplacians-of-sln%E2%84%A4-and-sautf_n/</link>
+      <pubDate>Thu, 11 Jul 2024 12:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/induction-of-spectral-gaps-for-the-cohomological-laplacians-of-sln%E2%84%A4-and-sautf_n/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -156,10 +212,10 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     </item>
     
     <item>
-      <title>Induction of spectral gaps for the cohomological Laplacians of SL(n,ℤ) and SAut(F_n)</title>
-      <link>https://example.com/talk/induction-of-spectral-gaps-for-the-cohomological-laplacians-of-sln%E2%84%A4-and-sautf_n/</link>
+      <title>Induction of spectral gaps for the cohomological Laplacians of SL_n(ℤ) and SAut(F_n)</title>
+      <link>https://example.com/talk/induction-of-spectral-gaps-for-the-cohomological-laplacians-of-sl_n%E2%84%A4-and-sautf_n/</link>
       <pubDate>Thu, 07 Sep 2023 15:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/induction-of-spectral-gaps-for-the-cohomological-laplacians-of-sln%E2%84%A4-and-sautf_n/</guid>
+      <guid>https://example.com/talk/induction-of-spectral-gaps-for-the-cohomological-laplacians-of-sl_n%E2%84%A4-and-sautf_n/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -249,24 +305,39 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <link>https://example.com/project/sonatina/</link>
       <pubDate>Fri, 09 Dec 2022 10:00:00 +0000</pubDate>
       <guid>https://example.com/project/sonatina/</guid>
-      <description>&lt;p&gt;In this project I am studying groups by means of their cohomologies. The focus is put to investigating group cohomology by its translation into group rings. In the group ring setting, one can distinguish specific Laplacians whose spectral properties are closely related to the cohomological ones.&lt;/p&gt;
+      <description>&lt;p&gt;In this project I studied groups by means of their cohomologies. The focus was put to investigating group cohomology by its translation into group rings. In the group ring setting, one can distinguish specific Laplacians whose spectral properties are closely related to the cohomological ones.&lt;/p&gt;
 &lt;p&gt;The short description for the general public can be found &lt;a href=&#34;https://example.com/uploads/sonatina_description.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;You can familiarize yourself with the project on the &lt;a href=&#34;https://projekty.ncn.gov.pl/en/index.php?projekt_id=546825&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NSC Poland webpage&lt;/a&gt; as well.&lt;/p&gt;
+&lt;h2 id=&#34;team-members&#34;&gt;TEAM MEMBERS&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Piotr Mizerka &amp;ndash; PI&lt;/li&gt;
+&lt;li&gt;Jakub Szymański &amp;ndash; 2023-2024&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;duration&#34;&gt;DURATION&lt;/h2&gt;
 &lt;p&gt;24 months&lt;/p&gt;
 &lt;h2 id=&#34;hosting-institution&#34;&gt;HOSTING INSTITUTION&lt;/h2&gt;
 &lt;p&gt;Institute of Mathematics of the Polish Academy of Sciences&lt;/p&gt;
 &lt;h2 id=&#34;project-outcome&#34;&gt;PROJECT OUTCOME&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/publication/higher_t_sln/&#34;&gt;Non-vanishing unitary cohomology of low-rank integral special linear groups&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We construct explicit finite-dimensional orthogonal representations $\pi_N$ of $\operatorname{SL}_n(\mathbb{Z})$ for $N=3,4$ all of whose invariant vectors are trivial, and such that $H^{N-1}(\operatorname{SL}_N(\mathbb{Z}),\pi_N)$ is non-trivial. This implies that for $N$ as above, the group $\operatorname{SL}_N(\mathbb{Z})$ does not have property $(T_N$-$_1)$ of Bader&amp;ndash;Sauer and therefore is not $(N-1)$-Kazhdan in the sense of De Chiffre&amp;ndash;Glebsky&amp;ndash;Lubotzky&amp;ndash;Thom, both being higher versions of Kazhdan&amp;rsquo;s property $T$.&lt;/p&gt;
+&lt;p&gt;Joint work of Benjamin Brück, Sam Hughes, Dawid Kielak and PI.&lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://example.com/publication/slnz_induction/&#34;&gt;Induction of spectral gaps for the cohomological Laplacians of $\mathrm{SL}_n(\mathbb{Z})$ and $\mathrm{SAut}(F_n)$&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;This paper descibes induction of spectral gaps of the Laplacian $\Delta_1=d_0d_0^*+d_1^*d_1$, where the differentials $d_i$ are given by Fox calculus. The induction can be applied to the cases of $\mathrm{SL}_n(\mathbb{Z})$, the group of $n\times n$ integer matrices with determinant one, and $\mathrm{SAut}(F_n)$, the group of special automorphisms of the free group on $n$ generators. In the former case, due to a direct computation for $\mathrm{SL}_3(\mathbb{Z})$, we are able to show the existence of such spectral gaps for any $\mathrm{SL}_n(\mathbb{Z})$, where $n\geq 3$. This constitutes, in particular, an alternative proof of Kazhdan&amp;rsquo;s property (T) for $\mathrm{SL}_n(\mathbb{Z})$.&lt;/p&gt;
+&lt;p&gt;Single-authored paper by PI.&lt;/p&gt;
+&lt;p&gt;Recently, PI and Jakub Szymański developed an analogous induction technique for $\mathrm{Sp}_2$$_n(\mathbb{Z})$. This leads to the existence of spectral gaps for $\Delta_1$ for these groups. We are currently writing down our findings and expect to send them for publication by the end of April 2025.&lt;/p&gt;
 &lt;h2 id=&#34;dissemination-of-results&#34;&gt;DISSEMINATION OF RESULTS&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/talk/induction-of-spectral-gaps-for-the-cohomological-laplacians-of-sln%e2%84%a4-and-sautf_n./&#34;&gt;Induction of spectral gaps for the cohomological Laplacians of $\mathrm{SL}_n(\mathbb{Z})$ and $\mathrm{SAut}(F_n)$&lt;/a&gt;, Groups and topological Groups, Plentzia, 2024.06.28&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/talk/group-ring-aspects-of-cohomological-properties/&#34;&gt;Group ring aspects of cohomological properties&lt;/a&gt;, Geometry Seminar of the University of Wrocław, 2024.01.29&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/talk/induction-of-spectral-gaps-for-the-cohomological-laplacians-of-sln%e2%84%a4-and-sautf_n/&#34;&gt;Induction of spectral gaps for the cohomological Laplacians of $\mathrm{SL}_n(\mathbb{Z})$ and $\mathrm{SAut}(F_n)$&lt;/a&gt;, Spanish+Polish Mathematical Meeting, University of Łódź, 2023.09.07&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/talk/spectral-gaps-for-cohomological-laplacians-of-sln%e2%84%a4/&#34;&gt;Spectral gaps for the cohomological Laplacians of $\mathrm{SL}_n(\mathbb{Z})$&lt;/a&gt;, Two-Day Geometry Meeting, University of Bristol, 2023.05.22&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/talk/nonvanishing-of-group-cohomology-of-sln%e2%84%a4/&#34;&gt;Nonvanishing of group cohomology of SL(n,ℤ)&lt;/a&gt;, a lightning talk of PI at LiT II: Lost in Topology, Pisa, 2024.09.17&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/talk/nieznikanie-kohomologii-grupy-sln%e2%84%a4/&#34;&gt;Nieznikanie kohomologii grupy SL(n,ℤ)&lt;/a&gt;, a talk of PI (in Polish) at 9. Forum Matematyków Polskich, Katowice, 2024.09.10&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/talk/induction-of-spectral-gaps-for-the-cohomological-laplacians-of-sln%e2%84%a4-and-sautf_n/&#34;&gt;Induction of spectral gaps for the cohomological Laplacians of $\mathrm{SL}_n(\mathbb{Z})$ and $\mathrm{SAut}(F_n)$&lt;/a&gt;, a talk of PI at Seminarium z Algebry, Geometrii i Arytmetyki, Poznań, 2024.07.11&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/talk/induction-of-spectral-gaps-for-the-cohomological-laplacians-of-sln%e2%84%a4-and-sautf_n./&#34;&gt;Induction of spectral gaps for the cohomological Laplacians of $\mathrm{SL}_n(\mathbb{Z})$ and $\mathrm{SAut}(F_n)$&lt;/a&gt;, a talk of PI at Groups and topological Groups, Plentzia, 2024.06.28&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/talk/group-ring-aspects-of-cohomological-properties/&#34;&gt;Group ring aspects of cohomological properties&lt;/a&gt;, a talk of PI at Geometry Seminar of the University of Wrocław, 2024.01.29&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/talk/induction-of-spectral-gaps-for-the-cohomological-laplacians-of-sl_n%e2%84%a4-and-sautf_n/&#34;&gt;Induction of spectral gaps for the cohomological Laplacians of $\mathrm{SL}_n(\mathbb{Z})$ and $\mathrm{SAut}(F_n)$&lt;/a&gt;, a talk of PI at Spanish+Polish Mathematical Meeting, University of Łódź, 2023.09.07&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://example.com/talk/spectral-gaps-for-cohomological-laplacians-of-sln%e2%84%a4/&#34;&gt;Spectral gaps for the cohomological Laplacians of $\mathrm{SL}_n(\mathbb{Z})$&lt;/a&gt;, a lightning talk of PI at Two-Day Geometry Meeting, University of Bristol, 2023.05.22&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -344,10 +415,10 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     </item>
     
     <item>
-      <title>Fox derivatives, group cohomology, and Kazhdan&#39;s property (T)..</title>
-      <link>https://example.com/talk/fox-derivatives-group-cohomology-and-kazhdans-property-t../</link>
+      <title>Fox derivatives, group cohomology, and Kazhdan&#39;s property T</title>
+      <link>https://example.com/talk/fox-derivatives-group-cohomology-and-kazhdans-property-t/</link>
       <pubDate>Tue, 22 Mar 2022 16:30:00 +0000</pubDate>
-      <guid>https://example.com/talk/fox-derivatives-group-cohomology-and-kazhdans-property-t../</guid>
+      <guid>https://example.com/talk/fox-derivatives-group-cohomology-and-kazhdans-property-t/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
