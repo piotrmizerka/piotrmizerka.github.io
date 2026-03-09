@@ -13,6 +13,16 @@
     </image>
     
     <item>
+      <title>Invitation to Topological Data Analysis</title>
+      <link>https://example.com/teaching/tda_2026/</link>
+      <pubDate>Tue, 03 Mar 2026 10:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching/tda_2026/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://sylabus.amu.edu.pl/pl/document/6861313e-f6b9-42a0-be96-a42307332729.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Syllabus, credit rules, and literature&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/teaching/tda_2026/1_structures_and_invariants.html&#34;&gt;Module 1: structures and invariants&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Non-vanishing unitary cohomology of low-rank integral special linear groups</title>
       <link>https://example.com/publication/higher_t_sln/</link>
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>

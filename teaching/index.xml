@@ -5,12 +5,22 @@
     <link>https://example.com/teaching/</link>
       <atom:link href="https://example.com/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Oct 2024 10:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Mar 2026 10:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Teaching</title>
       <link>https://example.com/teaching/</link>
     </image>
+    
+    <item>
+      <title>Invitation to Topological Data Analysis</title>
+      <link>https://example.com/teaching/tda_2026/</link>
+      <pubDate>Tue, 03 Mar 2026 10:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching/tda_2026/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://sylabus.amu.edu.pl/pl/document/6861313e-f6b9-42a0-be96-a42307332729.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Syllabus, credit rules, and literature&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/teaching/tda_2026/1_structures_and_invariants.html&#34;&gt;Module 1: structures and invariants&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Wstęp do algebry i teorii liczb</title>

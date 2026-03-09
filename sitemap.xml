@@ -2,6 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://example.com/teaching/tda_2026/</loc>
+    <lastmod>2026-03-03T10:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/teaching/</loc>
+    <lastmod>2026-03-03T10:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/publication-type/3/</loc>
     <lastmod>2024-10-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -24,10 +32,6 @@
   </url><url>
     <loc>https://example.com/event/</loc>
     <lastmod>2024-10-23T12:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/teaching/</loc>
-    <lastmod>2024-10-02T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/teaching/wstep_do_algebry_i_teorii_liczb_2024/</loc>
