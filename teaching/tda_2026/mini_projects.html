@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Mini Project Topics - Topological Data Analysis</title>
+</head>
+<body>
+
+  <h1>Mini Project Topics</h1>
+
+  <h2>Topic 1</h2>
+
+  <h3>Title:</h3>
+  <p><strong>Exhaustive Enumeration of Simplicial Mappings Between Small Complexes</strong></p>
+
+  <h3>Abstract:</h3>
+  <p>
+    Develop an algorithm to enumerate all possible simplicial mappings between two small,
+    randomly generated simplicial complexes. Analyze the properties of these mappings and
+    classify them based on their topological characteristics.
+  </p>
+
+  <h3>Technical description:</h3>
+  <p>
+    This project requires understanding the definition and properties of simplicial mappings.
+    You'll need to:
+  </p>
+  <ul>
+    <li>Generate pairs of small simplicial complexes</li>
+    <li>Implement an algorithm to enumerate all possible simplicial mappings between them</li>
+    <li>Classify these mappings based on properties such as injectivity, surjectivity, and preservation of homology</li>
+    <li>Visualize the complexes and selected mappings</li>
+  </ul>
+
+  <p>
+    The project will involve combinatorial algorithms, group theory for the automorphism groups
+    of simplicial complexes, and computational topology. SageMath's
+    <code>SimplicialComplex</code> class will be useful, but you may need to implement custom
+    functions for generating and analyzing the simplicial mappings.
+  </p>
+
+  <h3>References:</h3>
+  <ul>
+    <li>Hatcher, A. (2002). <em>Algebraic Topology</em>. Cambridge University Press. Section 2.1 on simplicial approximation.</li>
+    <li>Dłotko, P. <em>Applied and Computational Topology Tutorial</em>, section on simplicial maps.</li>
+    <li>Munkres, J. R. (1984). <em>Elements of Algebraic Topology</em>. Addison-Wesley. Chapter 1.</li>
+  </ul>
+
+  <hr />
+
+  <h2>Topic 2</h2>
+
+  <h3>Title:</h3>
+  <p><strong>Constructing Simplicial Complexes with Prescribed Homology</strong></p>
+
+  <h3>Abstract:</h3>
+  <p>
+    Given a sequence of abelian groups, with the first group being free abelian, construct a
+    simplicial complex of dimension at most 4 whose homology groups match the given sequence.
+    This project explores the realization problem in algebraic topology.
+  </p>
+
+  <h3>Technical description:</h3>
+  <p>This project involves:</p>
+  <ul>
+    <li>Understanding the constraints on homology groups of simplicial complexes</li>
+    <li>Implementing algorithms to construct complexes with prescribed homology</li>
+    <li>Verifying the homology of the constructed complexes</li>
+    <li>Optimizing the construction to minimize the number of simplices used</li>
+  </ul>
+
+  <p>
+    The mathematics involved includes the theory of CW complexes, obstruction theory, and the
+    realization problem in algebraic topology. You'll use SageMath's
+    <code>SimplicialComplex</code> class and its homology calculations, and may need to implement
+    additional algorithms based on theoretical results.
+  </p>
+
+
+  <h3>References:</h3>
+  <ul>
+    <li>Hatcher, A. (2002). <em>Algebraic Topology</em>. Cambridge University Press. Chapter 4.</li>
+    <li>Munkres, J. R. (1984). <em>Elements of Algebraic Topology</em>. Addison-Wesley. Chapters 4 and 5.</li>
+    <li>Carlsson, G. (2009). “Topology and Data”. <em>Bulletin of the American Mathematical Society</em>, 46(2), 255–308.</li>
+  </ul>
+
+  <hr />
+
+  <h2>Topic 3</h2>
+
+  <h3>Title:</h3>
+  <p><strong>Killing Homology by Adding Simplices</strong></p>
+
+  <h3>Abstract:</h3>
+  <p>
+    Develop a program that modifies a given simplicial complex by adding new simplices in order
+    to kill a selected homology group H<sub>n</sub>(K), while preserving all lower-dimensional
+    homology groups H<sub>k</sub>(K) for k &lt; n. The project explores how attaching
+    higher-dimensional simplices changes the topology of a complex.
+  </p>
+
+  <h3>Technical description:</h3>
+  <p>
+    This project requires understanding how homology classes can be eliminated by making cycles
+    into boundaries. You will need to:
+  </p>
+  <ul>
+    <li>Read or generate a finite simplicial complex</li>
+    <li>Compute its homology groups</li>
+    <li>Identify generators of a chosen homology group H<sub>n</sub>(K)</li>
+    <li>Find cycle representatives of these generators</li>
+    <li>Add suitable (n+1)-simplices, possibly using new vertices, whose boundaries kill the selected n-cycles</li>
+    <li>Verify that H<sub>n</sub>(K) becomes trivial</li>
+    <li>Check that all lower-dimensional homology groups H<sub>k</sub>(K), for k &lt; n, remain unchanged</li>
+    <li>Output and visualize the modified complex</li>
+  </ul>
+
+  <p>
+    The project connects computational topology with the classical construction of CW complexes
+    with prescribed homology. SageMath's <code>SimplicialComplex</code> class may be useful for
+    homology computations, but implementing the actual modification procedure will likely require
+    custom chain-level algorithms.
+  </p>
+
+
+  <h3>References:</h3>
+  <ul>
+    <li>Hatcher, A. (2002). <em>Algebraic Topology</em>. Cambridge University Press. Chapter 2.</li>
+    <li>Munkres, J. R. (1984). <em>Elements of Algebraic Topology</em>. Addison-Wesley. Chapters 1 and 4.</li>
+    <li>Edelsbrunner, H., &amp; Harer, J. (2010). <em>Computational Topology: An Introduction</em>. American Mathematical Society.</li>
+  </ul>
+
+  <hr />
+
+  <h2>Topic 4</h2>
+
+  <h3>Title:</h3>
+  <p><strong>Killing Homology by Removing Simplices</strong></p>
+
+  <h3>Abstract:</h3>
+  <p>
+    Develop a program that modifies a simplicial complex by removing carefully chosen simplices
+    in order to kill a selected homology group H<sub>n</sub>(K). The goal is to eliminate
+    n-dimensional cycles while preserving all homology groups H<sub>k</sub>(K) for k &lt; n-1,
+    allowing H<sub>n-1</sub>(K) to change.
+  </p>
+
+  <h3>Technical description:</h3>
+  <p>
+    This project studies how removing simplices changes the homology of a simplicial complex.
+    Unlike adding simplices, this procedure can create new lower-dimensional cycles, so the
+    removal strategy must be chosen carefully. You will need to:
+  </p>
+  <ul>
+    <li>Read or generate a finite simplicial complex</li>
+    <li>Compute its homology groups before modification</li>
+    <li>Identify n-dimensional homology generators and representative cycles</li>
+    <li>Select n-simplices whose removal destroys these cycles</li>
+    <li>Ensure that the resulting object is still a valid simplicial complex</li>
+    <li>Verify that the new complex has trivial H<sub>n</sub></li>
+    <li>Check that H<sub>k</sub> is unchanged for all k &lt; n-1</li>
+    <li>Analyze how H<sub>n-1</sub> changes after the removal</li>
+    <li>Compare the homology groups before and after modification</li>
+  </ul>
+
+  <p>
+    This project involves chain complexes, boundary maps, cycle and boundary groups, and
+    algorithmic manipulation of simplicial complexes. SageMath can be used for homology
+    computations, while the removal procedure may require implementing custom routines for
+    maintaining the simplicial-complex structure.
+  </p>
+
+
+  <h3>References:</h3>
+  <ul>
+    <li>Hatcher, A. (2002). <em>Algebraic Topology</em>. Cambridge University Press. Chapters 2 and 4.</li>
+    <li>Munkres, J. R. (1984). <em>Elements of Algebraic Topology</em>. Addison-Wesley. Chapters 1 and 4.</li>
+    <li>Edelsbrunner, H., &amp; Harer, J. (2010). <em>Computational Topology: An Introduction</em>. American Mathematical Society.</li>
+  </ul>
+
+</body>
+</html>
