@@ -411,7 +411,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#navbar-main" class="page-wrapper   " data-wc-page-id="3976528693a0108357f4928017600865" >
+<body id="top" data-spy="scroll" data-offset="100" data-target="#navbar-main" class="page-wrapper   " data-wc-page-id="3976528693a0108357f4928017600865" >
 
   
   
@@ -3167,6 +3167,60 @@
 
 
 
+
+
+<!-- Keep the fixed-navbar scroll position and active menu item in sync. -->
+<script>
+(function () {
+  'use strict';
+
+  var navbar = document.getElementById('navbar-main');
+  if (!navbar) return;
+
+  function scrollSpyOffset() {
+    // A small buffer avoids boundary/rounding cases where the previous
+    // section (for example Experience) stays active after navigation.
+    return Math.ceil(navbar.getBoundingClientRect().height) + 20;
+  }
+
+  function resetScrollSpy() {
+    var offset = scrollSpyOffset();
+    document.body.setAttribute('data-offset', String(offset));
+
+    if (window.jQuery && window.jQuery.fn && window.jQuery.fn.scrollspy) {
+      var $body = window.jQuery(document.body);
+      try {
+        $body.scrollspy('dispose');
+      } catch (e) {
+        // Older Bootstrap builds may not expose dispose; reinitializing is safe.
+      }
+      $body.scrollspy({ target: '#navbar-main', offset: offset });
+      $body.scrollspy('refresh');
+    }
+  }
+
+  // Make the selected link active immediately, then let ScrollSpy take over
+  // once the smooth scrolling animation has finished.
+  navbar.addEventListener('click', function (event) {
+    var link = event.target.closest('a.nav-link[data-target]');
+    if (!link) return;
+
+    navbar.querySelectorAll('a.nav-link.active').forEach(function (item) {
+      item.classList.remove('active');
+    });
+    link.classList.add('active');
+
+    window.setTimeout(function () {
+      if (window.jQuery && window.jQuery.fn && window.jQuery.fn.scrollspy) {
+        window.jQuery(document.body).scrollspy('refresh');
+      }
+    }, 700);
+  });
+
+  window.addEventListener('load', resetScrollSpy);
+  window.addEventListener('resize', resetScrollSpy);
+})();
+</script>
 
 </body>
 </html>
